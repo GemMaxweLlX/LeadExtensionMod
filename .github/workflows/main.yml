@@ -1,2 +1,0 @@
-- name: Archive using zip or tar
-  uses: NSCoder/archive-action@v1.0.0
