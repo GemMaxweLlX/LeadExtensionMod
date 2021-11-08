@@ -1,0 +1,23 @@
+name:"Свинцовый Бур"
+description:"Улучшена версия обычного Бура"
+type:"Drill"
+size:2
+health:280
+tier:2
+drillTime:500
+itemCapacity:20
+rotateSpeed:4
+consumes:{
+liquid:{
+liquid:"water"
+amount:0.05
+optional:true
+booster:true
+}
+}
+requirements:[
+copper/16
+lead/8
+]
+research: mechanical-drill
+category:"production"

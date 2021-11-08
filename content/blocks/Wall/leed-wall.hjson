@@ -1,0 +1,10 @@
+name:"Свинцовая стена"
+description:"Свинцовая стена более лучше чем медная, на [#ff0000]15%"
+type:Wall
+health:368
+size:1
+requirements:[
+lead/6
+]
+category:defense
+research: copper-wall-large

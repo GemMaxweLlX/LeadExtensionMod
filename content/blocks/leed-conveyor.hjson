@@ -1,0 +1,11 @@
+type: Conveyor
+name: Улучшеный конвеер
+description: "Улучшеная версия обычного конвейера на свинце"
+health:55
+requirements:[
+copper/2
+lead/2
+]
+category: distribution
+speed: 0.06
+research: conveyor

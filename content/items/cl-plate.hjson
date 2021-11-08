@@ -1,0 +1,7 @@
+name: "МС Пластина"
+description: "Медь-свинец Пластины более прочные можно использовать для стен или для других нужд где нужна более прочная броня "
+color: "#42009c"
+radioactivity: 0.0
+explosiveness:0.0
+flammability:0.0
+hardness: 2

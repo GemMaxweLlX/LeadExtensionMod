@@ -1,0 +1,15 @@
+name: Свинцовый трубопровод
+description: Улучшеная версия обычного трубопровода на свинце
+type: Conduit
+size: 1
+health: 240
+liquidCapacity: 24
+rotate: true
+solid: false
+floating: true
+requirements:[
+lead/2
+metaglass/2
+]
+research: conduit
+category: liquid

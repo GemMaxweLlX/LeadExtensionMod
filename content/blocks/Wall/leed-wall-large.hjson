@@ -1,0 +1,10 @@
+name:"Большая Свинцовая стена"
+description:"Свинцовая стена более лучше чем медная, на [#ff0000]15%"
+type:Wall
+health:1472
+size:2
+requirements:[
+lead/24
+]
+category:defense
+research: leed-wall

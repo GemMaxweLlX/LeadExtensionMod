@@ -1,0 +1,24 @@
+type:GenericSmelter
+name:"Пресс МС Пластин"
+description:"Соединяет Медь с Свинцом .\nПроизводит Пластины Медь-свинец. более прочнее состав\n чем эти металлы в отдельности."
+outputItem:cl-plate/1
+size:2
+hasPower:false
+hasItems:true
+craftTime:40
+updateEffect:steam
+itemCapacity:15
+ambientSound: respawning
+ambientSoundVolume: 0.5
+consumes:{
+power:0.5
+items:{items:[
+lead/1
+copper/2
+]}}
+requirements:[
+copper/30
+lead/25
+]
+category:crafting
+research:router
